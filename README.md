@@ -22,9 +22,7 @@
 </div>
 <img align="right" height="200" src="https://media1.tenor.com/m/WO18h5KYWE8AAAAC/nahida-happy.gif"  />
 <div align="left">
-  <a href="severo.alice773@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+   
 </div>
 <div align="center">
   <img height="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9fa84b1-82ec-4f7a-926d-1e24fbda969a/d5tq8gw-1fb6e9ac-d5d9-45fd-a1c9-018af2fc36dd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U5ZmE4NGIxLTgyZWMtNGY3YS05MjZkLTFlMjRmYmRhOTY5YVwvZDV0cThndy0xZmI2ZTlhYy1kNWQ5LTQ1ZmQtYTFjOS0wMThhZjJmYzM2ZGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pCmkL_rGjvjkMD4IA-Vw-cP1sc1Y-pUeGOWdXue-FqQ"  />
